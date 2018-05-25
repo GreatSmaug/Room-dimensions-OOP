@@ -1,0 +1,7 @@
+C:\Users\Morgan\Documents\Visual Studio Projects\Room dimensions (OOP)\Room dimensions (OOP)\obj\Debug\Room dimensions (OOP).csprojResolveAssemblyReference.cache
+C:\Users\Morgan\Documents\Visual Studio Projects\Room dimensions (OOP)\Room dimensions (OOP)\obj\Debug\Room dimensions (OOP).csproj.CoreCompileInputs.cache
+C:\Users\Morgan\Documents\Visual Studio Projects\Room dimensions (OOP)\Room dimensions (OOP)\bin\Debug\Room dimensions (OOP).exe.config
+C:\Users\Morgan\Documents\Visual Studio Projects\Room dimensions (OOP)\Room dimensions (OOP)\bin\Debug\Room dimensions (OOP).exe
+C:\Users\Morgan\Documents\Visual Studio Projects\Room dimensions (OOP)\Room dimensions (OOP)\bin\Debug\Room dimensions (OOP).pdb
+C:\Users\Morgan\Documents\Visual Studio Projects\Room dimensions (OOP)\Room dimensions (OOP)\obj\Debug\Room dimensions (OOP).exe
+C:\Users\Morgan\Documents\Visual Studio Projects\Room dimensions (OOP)\Room dimensions (OOP)\obj\Debug\Room dimensions (OOP).pdb
